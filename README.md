@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio Website](https://bucolic-creponne-63de33.netlify.app/index.html)
 
-- 💬 Ask me about **HTML,JAVA,CSS,JAVASCRIPT,REACT,SPRING BOOT, SPRING MVC,Etc**
+- 💬 Ask me about **HTML||JAVA||CSS||JAVASCRIPT||REACT||SPRING BOOT||SPRING MVC,Etc**
 
 - 📫 How to reach me **veenuj3112@gmail.com**
 
