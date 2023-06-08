@@ -1,3 +1,5 @@
+[![MasterHead](https://user-images.githubusercontent.com/26146907/193597966-b9fab9ac-5f43-4aa2-b43d-0bb3a9d10955.gif)](https://www.linkedin.com/in/anuj-dhiman3112/)
+
 <h1 align="center">Hi 👋, I'm Anuj Dhiman</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
