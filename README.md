@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=veenuj" alt="veenuj" /></a> </p>
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b84c5831-c24b-4549-99b0-c889cac5973e/deploy-status)](https://app.netlify.com/sites/anujdhiman/deploys)
 
 - 🔭 I’m currently working on [AxisBankPortal](https://github.com/veenuj/AxisBankPortal)
 
