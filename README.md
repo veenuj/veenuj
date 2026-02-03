@@ -14,7 +14,7 @@
   </p>
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=veenuj&theme=flat&no-frame=true&margin-w=15" alt="veenuj" />
+      <img src="https://github-profile-trophy.vercel.app/?username=veenuj&theme=tokyonight&no-frame=true&margin-w=15" alt="veenuj" />
     </a>
   </p>
 </div>
@@ -30,6 +30,28 @@
   ⚡ Fun fact **I engineer smart agents that do the hard work for me!**
   
   👨‍💻 **[Visit My Portfolio Website](https://anujdhiman.netlify.app/)**
+</div>
+
+---
+
+<h2 align="center">🚀 My Engineering Philosophy</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>🤖 Intelligent Automation</h3>
+        <p>I don't just write code; I build <strong>Agents</strong>. Leveraging GenAI to automate complex workflows and decision-making.</p>
+      </td>
+      <td align="center" width="33%">
+        <h3>🏗️ Scalable Architecture</h3>
+        <p>Experienced in designing robust <strong>Microservices</strong> and <strong>Event-Driven Systems</strong> using Spring Boot & Kafka.</p>
+      </td>
+      <td align="center" width="33%">
+        <h3>💼 Business Impact</h3>
+        <p>Bridging the gap between <strong>Business Requirements</strong> and <strong>Tech Execution</strong> to deliver profitable ROI.</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -63,6 +85,55 @@
 
 ---
 
+<h2 align="center">🔥 Featured Projects</h2>
+<div align="center">
+  <table>
+    <thead align="center">
+      <tr>
+        <th>Project</th>
+        <th>Tech Stack</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Axis Bank Portal Replica</strong></td>
+        <td><code>Java</code> <code>Spring Boot</code> <code>React</code></td>
+        <td>Full-stack banking simulation with secure login, transaction handling, and admin dashboard.</td>
+      </tr>
+      <tr>
+        <td><strong>Enterprise RAG Agent</strong></td>
+        <td><code>Python</code> <code>LlamaIndex</code> <code>VectorDB</code></td>
+        <td>Context-aware AI agent capable of retrieving and summarizing internal business data.</td>
+      </tr>
+      <tr>
+        <td><strong>CRM & ERP System</strong></td>
+        <td><code>.NET</code> <code>SQL Server</code> <code>Azure</code></td>
+        <td>Comprehensive resource planning tool for managing inventory, sales, and customer data.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=veenuj&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veenuj&layout=compact&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veenuj&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://streak-stats.demolab.com?user=veenuj&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="streak" />
+</div>
+
+---
+
 <h2 align="center">📫 Connect With Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/anuj-dhiman3112/" target="_blank">
@@ -79,13 +150,6 @@
   </a>
 </p>
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veenuj&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veenuj&layout=compact&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
-</div>
-<div align="center">
-  <br />
-  <img src="https://streak-stats.demolab.com?user=veenuj&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="streak" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
