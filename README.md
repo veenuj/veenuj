@@ -1,79 +1,91 @@
-[![MasterHead](https://user-images.githubusercontent.com/26146907/193597966-b9fab9ac-5f43-4aa2-b43d-0bb3a9d10955.gif)](https://www.linkedin.com/in/anuj-dhiman3112/)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/26146907/193597966-b9fab9ac-5f43-4aa2-b43d-0bb3a9d10955.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
 
-<h1 align="center">Hi 👋, I'm Anuj Dhiman</h1>
-<h3 align="center">Senior Full Stack (Java/React) & GenAI Engineer 🚀</h3>
+  <h1 align="center">Hi 👋, I'm Anuj Dhiman</h1>
+  <h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2362F7&center=true&vCenter=true&width=500&lines=Senior+Full+Stack+Java+%26+React+Dev;Architecting+GenAI+%26+RAG+Systems;Building+Autonomous+AI+Agents;6%2B+Years+Enterprise+Experience" alt="Typing SVG" />
+  </h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=veenuj&label=Profile%20views&color=0e75b6&style=flat" alt="veenuj" /> 
-</p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=veenuj&label=Profile%20views&color=0e75b6&style=flat-square" alt="veenuj" />
+    <a href="https://app.netlify.com/sites/anujdhiman/deploys">
+      <img src="https://api.netlify.com/api/v1/badges/b84c5831-c24b-4549-99b0-c889cac5973e/deploy-status" alt="Netlify Status"/>
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=veenuj&theme=flat&no-frame=true&margin-w=15" alt="veenuj" />
+    </a>
+  </p>
+</div>
 
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=veenuj" alt="veenuj" />
-</p>
+---
 
+<div align="center">
+  
+  🔭 I’m currently building **Agentic AI Systems & Enterprise RAG Pipelines**
+  
+  🌱 I’m currently exploring **Multi-Agent Systems (MAS), Fine-tuning Llama & Vector Databases**
+  
+  ⚡ Fun fact **I engineer smart agents that do the hard work for me!**
+  
+  👨‍💻 **[Visit My Portfolio Website](https://anujdhiman.netlify.app/)**
+</div>
+
+---
+
+<h2 align="center">🧠 The GenAI & ML Arsenal</h2>
 <p align="center">
-  <a href="https://app.netlify.com/sites/anujdhiman/deploys">
-    <img src="https://api.netlify.com/api/v1/badges/b84c5831-c24b-4549-99b0-c889cac5973e/deploy-status" alt="Netlify Status"/>
+  <img src="https://img.shields.io/badge/GenAI-Generative_Models-7928CA?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented-FF7F00?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-Llama_2_%2F_3-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agents-Multi_Agent_Systems-00C7B7?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <br/>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,pandas,opencv,anaconda&theme=light" />
   </a>
 </p>
 
-- 🔭 I’m currently building **Agentic AI Systems & Enterprise RAG Pipelines**
-
-- 🌱 I’m currently exploring **Multi-Agent Systems (MAS), Fine-tuning Llama & Vector Databases**
-
-- 👨‍💻 All of my projects are available at [Portfolio Website](https://anujdhiman.netlify.app/)
-
-- 💬 Ask me about **GenAI || RAG || LLMs || AGENTS || PYTHON || JAVA || SPRING BOOT || REACT**
-
-- 📫 How to reach me **veenuj3112@gmail.com**
-
-- 📄 Know about my experiences [Read More](https://anujdhiman.netlify.app/)
-
-- ⚡ Fun fact **I engineer smart agents that do the hard work for me!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ig_euroanuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/anuj-dhiman3112/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.facebook.com/anuj.dhiman.3386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/anujdhiman.ad92/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<h2 align="center">💻 Full Stack & Enterprise Architecture</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,js,ts,html,css,bootstrap,mui,nodejs,kotlin,cs,dotnet,c,cpp&theme=light" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
-    <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> 
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+<h2 align="center">🛠️ DevOps, Cloud & Tools</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,git,github,mysql,mongo,postgres,postman,idea,vscode&theme=light" />
+  </a>
 </p>
+
+---
+
+<h2 align="center">📫 Connect With Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/anuj-dhiman3112/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:veenuj3112@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/ig_euroanuj" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/anujdhiman.ad92/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veenuj&show_icons=true&locale=en" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veenuj&layout=compact&show_icons=true&locale=en" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=veenuj&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veenuj&layout=compact&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
 </div>
 <div align="center">
   <br />
-  <img src="https://streak-stats.demolab.com?user=veenuj" height="180" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=veenuj&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="streak" />
 </div>
