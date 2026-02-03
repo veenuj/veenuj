@@ -3,32 +3,40 @@
 <h1 align="center">Hi 👋, I'm Anuj Dhiman</h1>
 <h3 align="center">Senior Full Stack (Java/React) & GenAI Engineer 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=veenuj&label=Profile%20views&color=0e75b6&style=flat" alt="veenuj" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=veenuj&label=Profile%20views&color=0e75b6&style=flat" alt="veenuj" /> 
+</p>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=veenuj" alt="veenuj" /></a> </p>
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=veenuj" alt="veenuj" />
+</p>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b84c5831-c24b-4549-99b0-c889cac5973e/deploy-status)](https://app.netlify.com/sites/anujdhiman/deploys)
+<p align="center">
+  <a href="https://app.netlify.com/sites/anujdhiman/deploys">
+    <img src="https://api.netlify.com/api/v1/badges/b84c5831-c24b-4549-99b0-c889cac5973e/deploy-status" alt="Netlify Status"/>
+  </a>
+</p>
 
 - 🔭 I’m currently building **Agentic AI Systems & Enterprise RAG Pipelines**
 
 - 🌱 I’m currently exploring **Multi-Agent Systems (MAS), Fine-tuning Llama & Vector Databases**
 
-- 👨‍💻 All of my projects are available at [Portfolio Website](https://bucolic-creponne-63de33.netlify.app/index.html)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://anujdhiman.netlify.app/)
 
 - 💬 Ask me about **GenAI || RAG || LLMs || AGENTS || PYTHON || JAVA || SPRING BOOT || REACT**
 
 - 📫 How to reach me **veenuj3112@gmail.com**
 
-- 📄 Know about my experiences [Read More](https://bucolic-creponne-63de33.netlify.app/index.html)
+- 📄 Know about my experiences [Read More](https://anujdhiman.netlify.app/)
 
 - ⚡ Fun fact **I engineer smart agents that do the hard work for me!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ig_euroanuj" target="blank"><img align="center" src="twitter.png" alt="https://twitter.com/ig_euroanuj" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/anuj-dhiman3112/" target="blank"><img align="center" src="link.png" alt="https://www.linkedin.com/in/anuj-dhiman3112/" height="40" width="40" /></a>
-<a href="https://www.facebook.com/anuj.dhiman.3386" target="blank"><img align="center" src="fb.png" alt="https://www.facebook.com/anuj.dhiman.3386" height="40" width="40" /></a>
-<a href="https://www.instagram.com/anujdhiman.ad92/" target="blank"><img align="center" src="insta.png" alt="https://www.instagram.com/anujdhiman.ad92/" height="40" width="40" /></a>
+<a href="https://twitter.com/ig_euroanuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anuj-dhiman3112/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.facebook.com/anuj.dhiman.3386" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://www.instagram.com/anujdhiman.ad92/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -61,8 +69,11 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=veenuj&show_icons=true&locale=en&layout=compact" alt="veenuj" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veenuj&show_icons=true&locale=en" alt="veenuj" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veenuj&" alt="veenuj" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=veenuj&show_icons=true&locale=en" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veenuj&layout=compact&show_icons=true&locale=en" height="180" alt="languages" />
+</div>
+<div align="center">
+  <br />
+  <img src="https://streak-stats.demolab.com?user=veenuj" height="180" alt="streak" />
+</div>
