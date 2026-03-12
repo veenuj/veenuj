@@ -2,7 +2,7 @@
 <!--                     HEADER BANNER                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,40:0077b6,100:00b4d8&height=260&section=header&text=Anuj%20Dhiman&fontSize=75&fontColor=caf0f8&fontAlignY=45&animation=fadeIn&desc=Senior%20Full%20Stack%20%26%20AI%20Engineer%20%7C%20Java%20%7C%20React%20%7C%20GenAI%20%7C%20RAG%20%7C%20Agents&descSize=17&descAlignY=68&descColor=90e0ef" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:03045e,40:0077b6,100:00b4d8&amp;height=260&amp;section=header&amp;text=Anuj%20Dhiman&amp;fontSize=75&amp;fontColor=caf0f8&amp;fontAlignY=45&amp;animation=fadeIn&amp;desc=Senior%20Full%20Stack%20%26%20AI%20Engineer%20%7C%20Java%20%7C%20React%20%7C%20GenAI%20%7C%20RAG%20%7C%20Agents&amp;descSize=17&amp;descAlignY=68&amp;descColor=90e0ef" width="100%"/>
 
 <div align="center">
 
@@ -247,16 +247,16 @@
 
 ## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=veenuj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00b4d8&icon_color=0096c7&text_color=caf0f8&ring_color=0077b6&count_private=true&include_all_commits=true" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veenuj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00b4d8&text_color=caf0f8&langs_count=8" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=veenuj&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00b4d8&amp;icon_color=0096c7&amp;text_color=caf0f8&amp;ring_color=0077b6&amp;count_private=true&amp;include_all_commits=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veenuj&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00b4d8&amp;text_color=caf0f8&amp;langs_count=8" height="175"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=veenuj&theme=tokyonight&hide_border=true&background=0D1117&ring=00b4d8&fire=0096c7&currStreakLabel=00b4d8&sideLabels=0077b6&currStreakNum=caf0f8&sideNums=caf0f8&dates=90e0ef" height="175"/>
+<img src="https://streak-stats.demolab.com?user=veenuj&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=00b4d8&amp;fire=0096c7&amp;currStreakLabel=00b4d8&amp;sideLabels=0077b6&amp;currStreakNum=caf0f8&amp;sideNums=caf0f8&amp;dates=90e0ef" height="175"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=veenuj&theme=react-dark&hide_border=true&bg_color=0D1117&color=00b4d8&line=0077b6&point=00b4d8&area=true&area_color=023e8a" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=veenuj&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;color=00b4d8&amp;line=0077b6&amp;point=00b4d8&amp;area=true&amp;area_color=023e8a" width="100%"/>
 
 </div>
 
@@ -335,4 +335,4 @@ mindmap
 <!--                     FOOTER BANNER                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:03045e&height=130&section=footer&text=Open%20to%20Opportunities%20%7C%20Let%27s%20Connect!&fontColor=caf0f8&fontSize=18&fontAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00b4d8,50:0077b6,100:03045e&amp;height=130&amp;section=footer&amp;text=Open%20to%20Opportunities%20%7C%20Let%27s%20Connect!&amp;fontColor=caf0f8&amp;fontSize=18&amp;fontAlignY=68" width="100%"/>
